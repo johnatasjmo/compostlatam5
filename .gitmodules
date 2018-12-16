@@ -1,3 +1,6 @@
 [submodule "site/themes/bulma"]
 	path = site/themes/bulma
 	url = https://github.com/jeblister/bulma.git
+[submodule "site/themes/timer-hugo"]
+	path = site/themes/timer-hugo
+	url = https://github.com/themefisher/timer-hugo.git
